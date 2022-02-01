@@ -9,3 +9,9 @@
 - Clone this repo
 - Go to Game > Linux folder
 - Run `Basic Platformer 2d.x86_64` this file
+
+# OR RUN THIS COMMAND
+
+```sh
+git clone https://github.com/BIGBEASTISHANK/Basic-Platformer-2D ; cd Basic-Platformer-2D/Game/Linux ; ./Basic\ Platformer\ 2d.x86_64
+```
