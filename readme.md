@@ -23,4 +23,4 @@ git clone https://github.com/BIGBEASTISHANK/Basic-Platformer-2D ; cd Basic-Platf
 - Download this repo
 - Extract it
 - Go to Game > Windows
-- Run `Basic Platformer 2d.exe
+- Run `Basic Platformer 2d.exe`
