@@ -7,7 +7,7 @@
 
 ## Steps
 - Clone this repo
-- Go to Game > [Your os] folder
+- Go to Game > Linux folder
 - Run `Basic Platformer 2d.x86_64` this file
 
 # OR RUN THIS COMMAND WHEN ON LINUX
