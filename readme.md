@@ -6,11 +6,8 @@
 # How to download game
 
 ## Steps
-- Clone this repo
-- Go to Game > Linux folder
-- Run `Basic Platformer 2d.x86_64` this file
 
-# OR RUN THIS COMMAND WHEN ON LINUX
+# RUN THIS COMMAND WHEN ON LINUX
 
 **if doing first time**
 ```sh
