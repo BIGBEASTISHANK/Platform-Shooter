@@ -2,6 +2,11 @@
 
 - Game in game folder
 - Source code in source code folder
+---
+## Platform
+- Windows
+- Linux
+---
 
 # How to download game
 
