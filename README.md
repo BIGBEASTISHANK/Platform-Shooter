@@ -8,7 +8,7 @@ A basic platformer game where aliens spawn from sky and you have to shoot them.
 - Linux
 ---
 
-# How to download game
+# Download
 
-- To install game on your prefered platform please visit [Release Tab](https://github.com/BIGBEASTISHANK/Basic-Platformer-2D/releases/)
+To install game on your prefered platform please visit [Release Tab](https://github.com/BIGBEASTISHANK/Basic-Platformer-2D/releases/)
 
