@@ -1,7 +1,7 @@
 # Basic platformer 2D
 
-- Game in game folder
-- Source code in source code folder
+- A basic platformer game where aliens spawn from sky and you have to shoot them.
+
 ---
 ## Platform
 - Windows
