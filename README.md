@@ -1,6 +1,6 @@
 # Basic platformer 2D
 
-- A basic platformer game where aliens spawn from sky and you have to shoot them.
+A basic platformer game where aliens spawn from sky and you have to shoot them.
 
 ---
 ## Platform
